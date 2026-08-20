@@ -1,0 +1,14 @@
+.navbar-logo {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
+.c-item {
+    height: 480px;
+    align-items:center;
+    margin-bottom: 10px;
+}
+.img{
+    border-image-width: auto;
+    height: 40;
+}
